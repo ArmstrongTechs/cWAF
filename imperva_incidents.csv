@@ -1,4 +1,4 @@
-Value,Type,Comment
+value,type,comment
 185.177.72.210,ip-src,Illegal Resource Access
 107.172.201.133,ip-src,Illegal Resource Access
 185.177.72.29,ip-src,Illegal Resource Access
@@ -9656,3 +9656,4 @@ N/A,ip-src,Illegal Resource Access
 128.199.69.15,ip-src,Illegal Resource Access
 40.77.167.35,ip-src,Illegal Resource Access
 N/A,ip-src,Bad Bots
+
